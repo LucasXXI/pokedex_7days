@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using pokedex_7days.Domain.Contracts;
+﻿using pokedex_7days.Domain.Contracts;
 
 namespace pokedex_7days.Controllers;
 
