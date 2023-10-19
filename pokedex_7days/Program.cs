@@ -21,7 +21,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-var a = new FetchPokemonController();
+var application = new FetchPokemonController();
 
 app.UseHttpsRedirection();
 
